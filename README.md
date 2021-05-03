@@ -2,7 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-**Team Members**<br />
+**Founders & Creators**<br />
 Akash M Dubey <br />
 Jayshil Jain <br />
 Sagar Shah <br/>
@@ -10,7 +10,6 @@ Sagar Shah <br/>
 #### Quick Links
 
 ##### Presentations <br />
-[Google Docs](https://docs.google.com/document/d/1SZ0LcbfdTF95MscuZq454vE-mJKtkQAjTVhJ3G1fWgI/edit#heading=h.ui9fgw2vh8q)<br />
 [CLAAT presentation](https://codelabs-preview.appspot.com/?file_id=1SZ0LcbfdTF95MscuZq454vE-mJKtkQAjTVhJ3G1fWgI#0)<br />
 
 #### Dataset overview: 
