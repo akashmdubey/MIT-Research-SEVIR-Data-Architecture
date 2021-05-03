@@ -1,4 +1,4 @@
-# CSYE7245 - MIT Research - SEVIR Architecture (AWS, GCP and Snowflake) - Assignment 1
+# CSYE7245 - MIT Research - SEVIR Architecture (AWS, GCP and Snowflake) 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
@@ -65,6 +65,7 @@ VIR_Tutorial.ipynb
 
 ● https://www.ncdc.noaa.gov/stormevents/ftp.jsp
 
+# BUSINESS CASE
 ```Case:
 
 You are a freshly minted data scientist engineer at WeSpace Inc. which leverages space and
