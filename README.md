@@ -65,7 +65,7 @@ VIR_Tutorial.ipynb
 
 ● https://www.ncdc.noaa.gov/stormevents/ftp.jsp
 
-# BUSINESS CASE
+# BUSINESS TECHNOLOGY SOLUTIONS CASE 
 ```Case:
 
 You are a freshly minted data scientist engineer at WeSpace Inc. which leverages space and
