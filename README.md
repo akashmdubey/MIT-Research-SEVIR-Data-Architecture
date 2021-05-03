@@ -1,4 +1,4 @@
-# CSYE7245 - MIT Research - SEVIR Architecture (AWS, GCP and Snowflake) 
+# CSYE7245 - MIT Research Project - SEVIR Architecture (AWS, GCP and Snowflake) 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
@@ -43,21 +43,21 @@ The Storm EVent ImagRy (SEVIR) dataset is a collection of temporally and spatial
 ![](https://github.com/akashmdubey/MIT-Research-SEVIR-Data-Architecture/blob/main/Part%203%20-%20Snowflake%20%2B%20Apache%20Superset/img/Apache_Superset_dashboard.jpg)
 
 
-## Assignment Requirements
+## Client Requirements
 
-Assignment 1: Three experiments with Big data
+Requirement 1: Three experiments with Big data
 
 In this assignment, you will develop a data pipeline to ingest, process, store it so you can access it
 
 through different means.
 
-Preparation:
+Tech Stack Preparation:
 
-● Review the tutorials we discussed in class on Snowflake, Apache Beam, Dataflow, Accessing
+● Review the technology on Snowflake, Apache Beam, Dataflow, Accessing
 
 Amazon S3 buckets, Sevir etc.
 
-● Review:
+● Source Review:
 
 https://nbviewer.jupyter.org/github/MIT-AI-Accelerator/eie-sevir/blob/master/examples/SE
 
